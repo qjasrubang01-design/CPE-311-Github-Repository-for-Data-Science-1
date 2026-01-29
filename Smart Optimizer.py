@@ -271,7 +271,7 @@ class EnergyGUI(QWidget):
         except Exception as e:
             QMessageBox.critical(self, "Error", str(e))
 
-
+tiiiiiiiiiiiteeeeeeeeeeeeeeeeeeeeeeeeeeeee
 # -------------------------------
 # Run App
 # -------------------------------
